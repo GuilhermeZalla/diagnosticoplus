@@ -22,3 +22,6 @@ Com base na deficiência do atual sistema de saúde em relação ao atendimento 
 Foi utilizado a metodologia de Design Instrucional Sistemático (DIS) que consiste nas etapas de análise, design/desenvolvimento, implementação e avaliação. Como resultado, foi desenvolvido um sistema de informação visando atender as necessidades citadas
 
 A primeira versão do sistema disponibiliza o serviço de telediagnóstico. Este serviço possibilitará ao paciente fazer um prontuário com as informações necessárias, colocando informações pessoais, como nome, idade, sexo e informações gerais, como queixas, sintomas presentes e efeitos desses sintomas.
+
+#. Objetivos do telediagnóstico: O que se deseja obter com o diagnóstico remoto no sistema em desenvolvimento é, com base nas informações fornecidas pelo paciente, consultar uma      base de dados e em nível de estatísticas entregar um pré-diagnóstico contendo a porcentagem de possíveis doenças que o paciente possa ter.
+
