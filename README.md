@@ -1,5 +1,4 @@
-# tcc_2021
-
+# Diagnóstico Plus
 A new Flutter application.
 
 ## Getting Started
