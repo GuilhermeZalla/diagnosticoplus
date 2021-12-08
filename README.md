@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##Introdução
+## Introdução
 
 Com base na deficiência do atual sistema de saúde em relação ao atendimento hospitalar, agravado devido a pandemia de Covid-19, a aplicação a ser desenvolvida a partir desse artigo tem como objetivo levar a população geral uma alternativa de telediagnóstico confiável para as principais doenças virais no Brasil, tirando a necessidade de locomoção, promovendo um atendimento mais rápido e prevenindo-os de exposições. 
 
