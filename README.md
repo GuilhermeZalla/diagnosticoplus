@@ -23,5 +23,5 @@ Foi utilizado a metodologia de Design Instrucional Sistemático (DIS) que consis
 
 A primeira versão do sistema disponibiliza o serviço de telediagnóstico. Este serviço possibilitará ao paciente fazer um prontuário com as informações necessárias, colocando informações pessoais, como nome, idade, sexo e informações gerais, como queixas, sintomas presentes e efeitos desses sintomas.
 
-* Objetivos do telediagnóstico: O que se deseja obter com o diagnóstico remoto no sistema em desenvolvimento é, com base nas informações fornecidas pelo paciente, consultar uma      base de dados e em nível de estatísticas entregar um pré-diagnóstico contendo a porcentagem de possíveis doenças que o paciente possa ter.
+* <b>Objetivos do telediagnóstico:</b> O que se deseja obter com o diagnóstico remoto no sistema em desenvolvimento é, com base nas informações fornecidas pelo paciente, consultar uma      base de dados e em nível de estatísticas entregar um pré-diagnóstico contendo a porcentagem de possíveis doenças que o paciente possa ter.
 
